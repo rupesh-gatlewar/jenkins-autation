@@ -7,13 +7,13 @@ public class ClassTwo {
 	@Test
 	public void metOne()
 	{
-		System.out.println("This is method one");
+		System.out.println("This is method one tets");
 	}
 	
 	@Test
 	public void metTwo()
 	{
-		System.out.println("This is method two");
+		System.out.println("This is method two test");
 	}
 
 }
